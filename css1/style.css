@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+.firstclass {
+    background-color:bisque;
+    text-align: center;
+    color:aliceblue;
+}
+.secondclass {
+    background-color: rgb(255, 0, 0);
+    text-align: left;
+    color: gainsboro;
+}
+.thirdclass{
+    background-color: papayawhip;
+    text-align: left;
+    color: thistle;
+}
+.fourthclass{
+    background-color: darkgray;
+    text-align: left;
+    color: dodgerblue;
+}
